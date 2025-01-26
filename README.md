@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 
     Start the Gradio application by executing
    ```bash
-   python your_script_name.py
+   python summarizer+questions.py
 
 
 2. **Access the interface:**
